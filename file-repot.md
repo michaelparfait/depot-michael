@@ -37,6 +37,8 @@ Vidéos :
 # Bloc 3
 ## Vos commentaires et notes personnelles
 
-Le niveau de la formation est plutôt instances mais avec un plus d'effort je devrais pouvoir suivre.
+Le niveau de la formation est plutôt intanse mais avec un peu plus d'effort je devrais pouvoir suivre.
+Je suis plutôt content de manière général du contenu de la formation.
+
 
 ## les commentaires des autres
