@@ -1,5 +1,6 @@
-# Bloc 1
-## Vos attentes par rapport à la formation : quels sont les sujets qui vous intéressent en détail (nom du sujet + pourquoi ce sujet vous intéresse)
+# GIT - TP
+
+## Bloc 1
 
 ### Les sujets qui m'intéressent sont :
 
@@ -8,19 +9,20 @@
 * Faire plus de pratique 
 * Pouvoir être autonome la fin
 
-## Vos objectifs : pourquoi suivez vous cette formation
+### Vos objectifs : pourquoi suivez vous cette formation
 
 * Pouvoir intervenir sur des projets en tant que devops
 
-# Bloc 2
-## Les actions sous forme de todolist avec des cases à cocher, que vous avez ou aller faire pour atteindre vos objectifs
+## Bloc 2
+
+### Les actions sous forme de todolist avec des cases à cocher, que vous avez ou aller faire pour atteindre vos objectifs
 
 - [ ] Intervenir lors des cours et des tp
 - [ ] Refaire les tps 
 - [ ] Posr des questions
 - [ ] Travailler en dehors de la formation pour me mettre à niveau
 
-## Les ressources qui vous aident dans votre parcours d'apprentissage (liste de liens, livres, documents, vidéos ...)
+### Les ressources qui vous aident dans votre parcours d'apprentissage (liste de liens, livres, documents, vidéos ...)
 
 Liens : 
 * https://cht.sh/
@@ -34,11 +36,12 @@ Vidéos :
 * https://www.youtube.com/watch?v=CRlGDDprdOQ&t=3s
 * https://www.youtube.com/watch?v=hPfgekYUKgk 
 
-# Bloc 3
-## Vos commentaires et notes personnelles
+## Bloc 3
+
+### Vos commentaires et notes personnelles
 
 Le niveau de la formation est plutôt intanse mais avec un peu plus d'effort je devrais pouvoir suivre.
 Je suis plutôt content de manière général du contenu de la formation.
 
 
-## les commentaires des autres
+### les commentaires des autres
