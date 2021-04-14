@@ -33,3 +33,10 @@ Vidéos :
 * https://www.youtube.com/watch?v=kZx_vrMZxGk&list=PLH873peE3-33NeLFXZ0Idd_BcarxzJfN1&index=2
 * https://www.youtube.com/watch?v=CRlGDDprdOQ&t=3s
 * https://www.youtube.com/watch?v=hPfgekYUKgk 
+
+# Bloc 3
+## Vos commentaires et notes personnelles
+
+Le niveau de la formation est plutôt instances mais avec un plus d'effort je devrais pouvoir suivre.
+
+## les commentaires des autres
