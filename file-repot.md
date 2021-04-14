@@ -9,20 +9,20 @@
 * Faire plus de pratique 
 * Pouvoir être autonome la fin
 
-### Vos objectifs : pourquoi suivez vous cette formation
+### Vos objectifs :
 
 * Pouvoir intervenir sur des projets en tant que devops
 
 ## Bloc 2
 
-### Les actions sous forme de todolist avec des cases à cocher, que vous avez ou aller faire pour atteindre vos objectifs
+### Les actions pour atteindre les objectifs :
 
 - [ ] Intervenir lors des cours et des tp
 - [ ] Refaire les tps 
 - [ ] Posr des questions
 - [ ] Travailler en dehors de la formation pour me mettre à niveau
 
-### Les ressources qui vous aident dans votre parcours d'apprentissage (liste de liens, livres, documents, vidéos ...)
+### Les ressources 
 
 Liens : 
 * https://cht.sh/
